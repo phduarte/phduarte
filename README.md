@@ -16,10 +16,10 @@
 
 Há mais de 15 anos construo software, os últimos 5 no **Neon**, onde sou referência técnica da plataforma de investimentos. Gosto de transformar problemas de negócio em decisões de arquitetura com resultado medido:
 
-- 🔀 **Smart Routing:** pagamento de boletos agnóstico de banco parceiro, que escolhe o parceiro mais vantajoso a cada pagamento (**+50% no valor de repasse**)
-- 🧩 **Server-Driven UI (SDUI):** home de investimentos personalizada por cliente, há **2 anos na mesma versão de endpoint** enquanto a tela muda a cada 3 meses
+- 🔀 **Smart Routing:** pagamento de boletos agnóstico de banco parceiro, que escolhe o parceiro mais vantajoso a cada pagamento
+- 🧩 **Server-Driven UI (SDUI):** montagem de tela do app de forma dinâmica e personalizada por cliente, através de um BFF que está rodando há mais de **2 anos na mesma versão de endpoint** enquanto a tela muda a cada 3 meses
 - ☁️ **Cloud Database Migration:** SQL Server → Amazon Aurora PostgreSQL, com **mais de 50% de economia** no custo de banco
-- 📈 **Observability e SRE:** SLOs de **50% para 90%+** em 3 meses e **-99%** nos erros de resgate
+- 📈 **Observability e SRE:** Melhoria nos indicadores de SLOs saindo de **50% para 90%+** em menos de 3 meses e **-99%** nos erros
 - 🤖 **Agentic AI:** Claude no código, na documentação e nos testes, e agentes integrados ao Jira e ao Datadog via **MCP**
 
 🎓 Pós-graduado em Arquitetura de Software Distribuído e em Inteligência Artificial e Machine Learning (PUC Minas).
